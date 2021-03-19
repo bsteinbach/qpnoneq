@@ -1,0 +1,1 @@
+Calculate the non-equilibrium distribution of quasiparticles in aluminum. This code is an implementation of Goldie and Withington 2012, Non-equilibrium superconductivity in quantum-sensing superconducting resonators https://doi.org/10.1088%2F0953-2048%2F26%2F1%2F015004
